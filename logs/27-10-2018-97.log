@@ -1,0 +1,256 @@
+[CarbonChat - Software] [22:20:15] [INFO] ----------[ CARBONCHAT ]----------
+[CarbonChat - Software] [22:20:15] [INFO] ----------[ CARBONCHAT ]----------
+[CarbonChat - Software] [22:20:15] [INFO] 
+[CarbonChat - Software] [22:20:15] [INFO] 
+[CarbonChat - Software] [22:20:15] [INFO] Version: BETA-0.0.1
+[CarbonChat - Software] [22:20:15] [INFO] Version: BETA-0.0.1
+[CarbonChat - Software] [22:20:15] [INFO] Web Master Server: http://doryan-bessiere.000webhostapp.com/apps/carbonchat/
+[CarbonChat - Software] [22:20:15] [INFO] Web Master Server: http://doryan-bessiere.000webhostapp.com/apps/carbonchat/
+[CarbonChat - Software] [22:20:15] [INFO] Web Master Server Status : online
+[CarbonChat - Software] [22:20:15] [INFO] Web Master Server Status : online
+[CarbonChat - Software] [22:20:15] [INFO] 
+[CarbonChat - Software] [22:20:15] [INFO] 
+[CarbonChat - Software] [22:20:15] [INFO] has update: no
+[CarbonChat - Software] [22:20:15] [INFO] has update: no
+[CarbonChat - Software] [22:20:15] [INFO]   current version: BETA-0.0.1
+[CarbonChat - Software] [22:20:15] [INFO]   current version: BETA-0.0.1
+[CarbonChat - Software] [22:20:15] [INFO]   last version: BETA-0.0.1
+[CarbonChat - Software] [22:20:15] [INFO]   last version: BETA-0.0.1
+[CarbonChat - Software] [22:20:15] [INFO] 
+[CarbonChat - Software] [22:20:15] [INFO] 
+[CarbonChat - Software] [22:20:15] [INFO] ----------------------------------
+[CarbonChat - Software] [22:20:15] [INFO] ----------------------------------
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] home_welcome_message=Bienvenue sur CarbonChat l'application de vos rêves <br> pour réaliser et organiser vos projets les plus fous <br> <br> CarbonChat est dans ces première version il se peut <br> que vous tombez sur des bug n'hésiter <br> pas à nous les rapporter.
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] home_welcome_message=Bienvenue sur CarbonChat l'application de vos rêves <br> pour réaliser et organiser vos projets les plus fous <br> <br> CarbonChat est dans ces première version il se peut <br> que vous tombez sur des bug n'hésiter <br> pas à nous les rapporter.
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] i_have_a_problem=Je rencontre un problème
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] i_have_a_problem=Je rencontre un problème
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] email_text=Email
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] email_text=Email
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] password_text=Mot de passe
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] password_text=Mot de passe
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] current_connection=Connexion en cours ...
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] current_connection=Connexion en cours ...
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] textfield_empty=Les champs requis sont incomplet
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] textfield_empty=Les champs requis sont incomplet
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] account_disabled=Votre compte est désactivé
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] account_disabled=Votre compte est désactivé
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] connection_is_a_failure=Identifiant invalide
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] connection_is_a_failure=Identifiant invalide
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] error_paramaters=Une erreur est survenue, problème de paramètre
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] error_paramaters=Une erreur est survenue, problème de paramètre
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] missing_parameters=Une erreur est survenue, paramètres manquant
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] missing_parameters=Une erreur est survenue, paramètres manquant
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] connection_is_a_success=Connexion avec succès
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] connection_is_a_success=Connexion avec succès
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] as_error_has_occurred_from_the_server=Une erreur est survenue sur le serveur
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] as_error_has_occurred_from_the_server=Une erreur est survenue sur le serveur
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] an_error_occurred_while_decoding_the_response=Une erreur est survenue lors du décodage de la requête
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] an_error_occurred_while_decoding_the_response=Une erreur est survenue lors du décodage de la requête
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] an_error_arose_during_the_recovery_of_the_answer=Aucune réponse de la par du serveur
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] an_error_arose_during_the_recovery_of_the_answer=Aucune réponse de la par du serveur
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] back_to_home=Retour vers l'accueil
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] back_to_home=Retour vers l'accueil
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] save_check_box=Connexion automatique
+[CarbonChat - Software] [22:20:15] [DEBUG] [Lang] save_check_box=Connexion automatique
+[CarbonChat - Software] [22:20:15] [INFO] [Lang] 18 messages loaded.
+[CarbonChat - Software] [22:20:15] [INFO] [Lang] 18 messages loaded.
+[CarbonChat - Software] [22:20:22] [ERROR] exception in thread 'Timer-1' java.lang.IllegalStateException
+[CarbonChat - Software] [22:20:22] [ERROR] exception in thread 'Timer-1' java.lang.IllegalStateException
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:423)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:423)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.scene.Parent$2.onProposedChange(Parent.java:367)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.scene.Parent$2.onProposedChange(Parent.java:367)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:113)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:113)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:108)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:108)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.updateChildren(LabeledSkinBase.java:575)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.updateChildren(LabeledSkinBase.java:575)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.jfoenix.skins.JFXButtonSkin.updateChildren(JFXButtonSkin.java:125)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.jfoenix.skins.JFXButtonSkin.updateChildren(JFXButtonSkin.java:125)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.handleControlPropertyChanged(LabeledSkinBase.java:204)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.handleControlPropertyChanged(LabeledSkinBase.java:204)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.ButtonSkin.handleControlPropertyChanged(ButtonSkin.java:71)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.ButtonSkin.handleControlPropertyChanged(ButtonSkin.java:71)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.BehaviorSkinBase.lambda$registerChangeListener$61(BehaviorSkinBase.java:197)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.BehaviorSkinBase.lambda$registerChangeListener$61(BehaviorSkinBase.java:197)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.MultiplePropertyChangeListenerHandler$1.changed(MultiplePropertyChangeListenerHandler.java:55)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.MultiplePropertyChangeListenerHandler$1.changed(MultiplePropertyChangeListenerHandler.java:55)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.value.WeakChangeListener.changed(WeakChangeListener.java:89)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.value.WeakChangeListener.changed(WeakChangeListener.java:89)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:182)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:182)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringPropertyBase.fireValueChangedEvent(StringPropertyBase.java:103)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringPropertyBase.fireValueChangedEvent(StringPropertyBase.java:103)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringPropertyBase.markInvalid(StringPropertyBase.java:110)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringPropertyBase.markInvalid(StringPropertyBase.java:110)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringPropertyBase.set(StringPropertyBase.java:144)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringPropertyBase.set(StringPropertyBase.java:144)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringPropertyBase.set(StringPropertyBase.java:49)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringPropertyBase.set(StringPropertyBase.java:49)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringProperty.setValue(StringProperty.java:65)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.StringProperty.setValue(StringProperty.java:65)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.scene.control.Labeled.setText(Labeled.java:145)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.scene.control.Labeled.setText(Labeled.java:145)
+[CarbonChat - Software] [22:20:22] [ERROR]     at fr.carbonchat.software.interfaces.launcher.login.LoginInterface$5.run(LoginInterface.java:316)
+[CarbonChat - Software] [22:20:22] [ERROR]     at fr.carbonchat.software.interfaces.launcher.login.LoginInterface$5.run(LoginInterface.java:316)
+[CarbonChat - Software] [22:20:22] [ERROR]     at java.util.TimerThread.mainLoop(null:-1)
+[CarbonChat - Software] [22:20:22] [ERROR]     at java.util.TimerThread.mainLoop(null:-1)
+[CarbonChat - Software] [22:20:22] [ERROR]     at java.util.TimerThread.run(null:-1)
+[CarbonChat - Software] [22:20:22] [ERROR]     at java.util.TimerThread.run(null:-1)
+[CarbonChat - Software] [22:20:22] [ERROR] exception in thread 'Timer-1' java.lang.IllegalStateException
+[CarbonChat - Software] [22:20:22] [ERROR] exception in thread 'Timer-1' java.lang.IllegalStateException
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:423)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:423)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.scene.Parent$2.onProposedChange(Parent.java:367)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.scene.Parent$2.onProposedChange(Parent.java:367)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:113)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:113)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:108)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:108)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.updateChildren(LabeledSkinBase.java:580)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.updateChildren(LabeledSkinBase.java:580)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.jfoenix.skins.JFXButtonSkin.updateChildren(JFXButtonSkin.java:125)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.jfoenix.skins.JFXButtonSkin.updateChildren(JFXButtonSkin.java:125)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.handleControlPropertyChanged(LabeledSkinBase.java:181)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.handleControlPropertyChanged(LabeledSkinBase.java:181)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.ButtonSkin.handleControlPropertyChanged(ButtonSkin.java:71)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.ButtonSkin.handleControlPropertyChanged(ButtonSkin.java:71)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.BehaviorSkinBase.lambda$registerChangeListener$61(BehaviorSkinBase.java:197)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.skin.BehaviorSkinBase.lambda$registerChangeListener$61(BehaviorSkinBase.java:197)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.MultiplePropertyChangeListenerHandler$1.changed(MultiplePropertyChangeListenerHandler.java:55)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.scene.control.MultiplePropertyChangeListenerHandler$1.changed(MultiplePropertyChangeListenerHandler.java:55)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.value.WeakChangeListener.changed(WeakChangeListener.java:89)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.value.WeakChangeListener.changed(WeakChangeListener.java:89)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:182)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:182)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+[CarbonChat - Software] [22:20:22] [ERROR]     at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.ObjectPropertyBase.fireValueChangedEvent(ObjectPropertyBase.java:105)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.ObjectPropertyBase.fireValueChangedEvent(ObjectPropertyBase.java:105)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:112)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:112)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:146)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:146)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.css.StyleableObjectProperty.set(StyleableObjectProperty.java:82)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.css.StyleableObjectProperty.set(StyleableObjectProperty.java:82)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.ObjectProperty.setValue(ObjectProperty.java:69)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.beans.property.ObjectProperty.setValue(ObjectProperty.java:69)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.scene.control.Labeled.setGraphic(Labeled.java:423)
+[CarbonChat - Software] [22:20:22] [ERROR]     at javafx.scene.control.Labeled.setGraphic(Labeled.java:423)
+[CarbonChat - Software] [22:20:22] [ERROR]     at fr.carbonchat.software.interfaces.launcher.login.LoginInterface$5.run(LoginInterface.java:317)
+[CarbonChat - Software] [22:20:22] [ERROR]     at fr.carbonchat.software.interfaces.launcher.login.LoginInterface$5.run(LoginInterface.java:317)
+[CarbonChat - Software] [22:20:22] [ERROR]     at java.util.TimerThread.mainLoop(null:-1)
+[CarbonChat - Software] [22:20:22] [ERROR]     at java.util.TimerThread.mainLoop(null:-1)
+[CarbonChat - Software] [22:20:22] [ERROR]     at java.util.TimerThread.run(null:-1)
+[CarbonChat - Software] [22:20:22] [ERROR]     at java.util.TimerThread.run(null:-1)
+[CarbonChat - Software] [22:20:23] [ERROR] exception in thread 'Timer-2' java.lang.IllegalStateException
+[CarbonChat - Software] [22:20:23] [ERROR] exception in thread 'Timer-2' java.lang.IllegalStateException
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:423)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:423)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.scene.Parent$2.onProposedChange(Parent.java:367)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.scene.Parent$2.onProposedChange(Parent.java:367)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:113)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:113)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:108)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:108)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.updateChildren(LabeledSkinBase.java:580)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.updateChildren(LabeledSkinBase.java:580)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.jfoenix.skins.JFXButtonSkin.updateChildren(JFXButtonSkin.java:125)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.jfoenix.skins.JFXButtonSkin.updateChildren(JFXButtonSkin.java:125)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.handleControlPropertyChanged(LabeledSkinBase.java:181)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.handleControlPropertyChanged(LabeledSkinBase.java:181)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.skin.ButtonSkin.handleControlPropertyChanged(ButtonSkin.java:71)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.skin.ButtonSkin.handleControlPropertyChanged(ButtonSkin.java:71)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.skin.BehaviorSkinBase.lambda$registerChangeListener$61(BehaviorSkinBase.java:197)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.skin.BehaviorSkinBase.lambda$registerChangeListener$61(BehaviorSkinBase.java:197)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.MultiplePropertyChangeListenerHandler$1.changed(MultiplePropertyChangeListenerHandler.java:55)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.scene.control.MultiplePropertyChangeListenerHandler$1.changed(MultiplePropertyChangeListenerHandler.java:55)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.value.WeakChangeListener.changed(WeakChangeListener.java:89)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.value.WeakChangeListener.changed(WeakChangeListener.java:89)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:182)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:182)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+[CarbonChat - Software] [22:20:23] [ERROR]     at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.property.ObjectPropertyBase.fireValueChangedEvent(ObjectPropertyBase.java:105)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.property.ObjectPropertyBase.fireValueChangedEvent(ObjectPropertyBase.java:105)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:112)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:112)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:146)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:146)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.css.StyleableObjectProperty.set(StyleableObjectProperty.java:82)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.css.StyleableObjectProperty.set(StyleableObjectProperty.java:82)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.property.ObjectProperty.setValue(ObjectProperty.java:69)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.beans.property.ObjectProperty.setValue(ObjectProperty.java:69)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.scene.control.Labeled.setGraphic(Labeled.java:423)
+[CarbonChat - Software] [22:20:23] [ERROR]     at javafx.scene.control.Labeled.setGraphic(Labeled.java:423)
+[CarbonChat - Software] [22:20:23] [ERROR]     at fr.carbonchat.software.interfaces.launcher.login.LoginInterface$5.run(LoginInterface.java:317)
+[CarbonChat - Software] [22:20:23] [ERROR]     at fr.carbonchat.software.interfaces.launcher.login.LoginInterface$5.run(LoginInterface.java:317)
+[CarbonChat - Software] [22:20:23] [ERROR]     at java.util.TimerThread.mainLoop(null:-1)
+[CarbonChat - Software] [22:20:23] [ERROR]     at java.util.TimerThread.mainLoop(null:-1)
+[CarbonChat - Software] [22:20:23] [ERROR]     at java.util.TimerThread.run(null:-1)
+[CarbonChat - Software] [22:20:23] [ERROR]     at java.util.TimerThread.run(null:-1)
+[CarbonChat - Software] [22:20:26] [ERROR] exception in thread 'Timer-3' java.lang.IllegalStateException
+[CarbonChat - Software] [22:20:26] [ERROR] exception in thread 'Timer-3' java.lang.IllegalStateException
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:423)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:423)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.scene.Parent$2.onProposedChange(Parent.java:367)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.scene.Parent$2.onProposedChange(Parent.java:367)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:113)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:113)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:108)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.collections.VetoableListDecorator.setAll(VetoableListDecorator.java:108)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.updateChildren(LabeledSkinBase.java:580)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.updateChildren(LabeledSkinBase.java:580)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.jfoenix.skins.JFXButtonSkin.updateChildren(JFXButtonSkin.java:125)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.jfoenix.skins.JFXButtonSkin.updateChildren(JFXButtonSkin.java:125)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.handleControlPropertyChanged(LabeledSkinBase.java:181)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.skin.LabeledSkinBase.handleControlPropertyChanged(LabeledSkinBase.java:181)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.skin.ButtonSkin.handleControlPropertyChanged(ButtonSkin.java:71)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.skin.ButtonSkin.handleControlPropertyChanged(ButtonSkin.java:71)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.skin.BehaviorSkinBase.lambda$registerChangeListener$61(BehaviorSkinBase.java:197)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.skin.BehaviorSkinBase.lambda$registerChangeListener$61(BehaviorSkinBase.java:197)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.MultiplePropertyChangeListenerHandler$1.changed(MultiplePropertyChangeListenerHandler.java:55)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.scene.control.MultiplePropertyChangeListenerHandler$1.changed(MultiplePropertyChangeListenerHandler.java:55)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.value.WeakChangeListener.changed(WeakChangeListener.java:89)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.value.WeakChangeListener.changed(WeakChangeListener.java:89)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:182)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.binding.ExpressionHelper$SingleChange.fireValueChangedEvent(ExpressionHelper.java:182)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+[CarbonChat - Software] [22:20:26] [ERROR]     at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.property.ObjectPropertyBase.fireValueChangedEvent(ObjectPropertyBase.java:105)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.property.ObjectPropertyBase.fireValueChangedEvent(ObjectPropertyBase.java:105)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:112)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:112)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:146)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:146)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.css.StyleableObjectProperty.set(StyleableObjectProperty.java:82)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.css.StyleableObjectProperty.set(StyleableObjectProperty.java:82)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.property.ObjectProperty.setValue(ObjectProperty.java:69)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.beans.property.ObjectProperty.setValue(ObjectProperty.java:69)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.scene.control.Labeled.setGraphic(Labeled.java:423)
+[CarbonChat - Software] [22:20:26] [ERROR]     at javafx.scene.control.Labeled.setGraphic(Labeled.java:423)
+[CarbonChat - Software] [22:20:26] [ERROR]     at fr.carbonchat.software.interfaces.launcher.login.LoginInterface$5.run(LoginInterface.java:317)
+[CarbonChat - Software] [22:20:26] [ERROR]     at fr.carbonchat.software.interfaces.launcher.login.LoginInterface$5.run(LoginInterface.java:317)
+[CarbonChat - Software] [22:20:26] [ERROR]     at java.util.TimerThread.mainLoop(null:-1)
+[CarbonChat - Software] [22:20:26] [ERROR]     at java.util.TimerThread.mainLoop(null:-1)
+[CarbonChat - Software] [22:20:26] [ERROR]     at java.util.TimerThread.run(null:-1)
+[CarbonChat - Software] [22:20:26] [ERROR]     at java.util.TimerThread.run(null:-1)

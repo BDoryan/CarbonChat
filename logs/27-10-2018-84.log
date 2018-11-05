@@ -1,0 +1,124 @@
+[CarbonChat - Software] [17:51:18] [INFO] ----------[ CARBONCHAT ]----------
+[CarbonChat - Software] [17:51:18] [INFO] ----------[ CARBONCHAT ]----------
+[CarbonChat - Software] [17:51:18] [INFO] 
+[CarbonChat - Software] [17:51:18] [INFO] 
+[CarbonChat - Software] [17:51:18] [INFO] Version: BETA-0.0.1
+[CarbonChat - Software] [17:51:18] [INFO] Version: BETA-0.0.1
+[CarbonChat - Software] [17:51:18] [INFO] Web Master Server: http://doryan-bessiere.000webhostapp.com/apps/carbonchat/
+[CarbonChat - Software] [17:51:18] [INFO] Web Master Server: http://doryan-bessiere.000webhostapp.com/apps/carbonchat/
+[CarbonChat - Software] [17:51:18] [INFO] Web Master Server Status : online
+[CarbonChat - Software] [17:51:18] [INFO] Web Master Server Status : online
+[CarbonChat - Software] [17:51:18] [INFO] 
+[CarbonChat - Software] [17:51:18] [INFO] 
+[CarbonChat - Software] [17:51:18] [INFO] has update: no
+[CarbonChat - Software] [17:51:18] [INFO] has update: no
+[CarbonChat - Software] [17:51:18] [INFO]   current version: BETA-0.0.1
+[CarbonChat - Software] [17:51:18] [INFO]   current version: BETA-0.0.1
+[CarbonChat - Software] [17:51:18] [INFO]   last version: BETA-0.0.1
+[CarbonChat - Software] [17:51:18] [INFO]   last version: BETA-0.0.1
+[CarbonChat - Software] [17:51:18] [INFO] 
+[CarbonChat - Software] [17:51:18] [INFO] 
+[CarbonChat - Software] [17:51:18] [INFO] ----------------------------------
+[CarbonChat - Software] [17:51:18] [INFO] ----------------------------------
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] home_welcome_message=Bienvenue sur CarbonChat l'application de vos rêves <br> pour réaliser et organiser vos projets les plus fous <br> <br> CarbonChat est dans ces première version il se peut <br> que vous tombez sur des bug n'hésiter <br> pas à nous les rapporter.
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] home_welcome_message=Bienvenue sur CarbonChat l'application de vos rêves <br> pour réaliser et organiser vos projets les plus fous <br> <br> CarbonChat est dans ces première version il se peut <br> que vous tombez sur des bug n'hésiter <br> pas à nous les rapporter.
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] i_have_a_problem=Je rencontre un problème
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] i_have_a_problem=Je rencontre un problème
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] email_text=Email
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] email_text=Email
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] password_text=Mot de passe
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] password_text=Mot de passe
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] current_connection=Connexion en cours ...
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] current_connection=Connexion en cours ...
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] textfield_empty=Les champs requis sont incomplet
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] textfield_empty=Les champs requis sont incomplet
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] account_disabled=Votre compte est désactivé
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] account_disabled=Votre compte est désactivé
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] connection_is_a_failure=Identifiant invalide
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] connection_is_a_failure=Identifiant invalide
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] error_paramaters=Une erreur est survenue, problème de paramètre
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] error_paramaters=Une erreur est survenue, problème de paramètre
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] missing_parameters=Une erreur est survenue, paramètres manquant
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] missing_parameters=Une erreur est survenue, paramètres manquant
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] connection_is_a_success=Connexion avec succès
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] connection_is_a_success=Connexion avec succès
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] as_error_has_occurred_from_the_server=Une erreur est survenue sur le serveur
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] as_error_has_occurred_from_the_server=Une erreur est survenue sur le serveur
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] an_error_occurred_while_decoding_the_response=Une erreur est survenue lors du décodage de la requête
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] an_error_occurred_while_decoding_the_response=Une erreur est survenue lors du décodage de la requête
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] an_error_arose_during_the_recovery_of_the_answer=Une erreur est survenue lors de réception de la requête
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] an_error_arose_during_the_recovery_of_the_answer=Une erreur est survenue lors de réception de la requête
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] back_to_home=Retour vers l'accueil
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] back_to_home=Retour vers l'accueil
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] save_check_box=Connexion automatique
+[CarbonChat - Software] [17:51:18] [DEBUG] [Lang] save_check_box=Connexion automatique
+[CarbonChat - Software] [17:51:18] [INFO] [Lang] 18 messages loaded.
+[CarbonChat - Software] [17:51:18] [INFO] [Lang] 18 messages loaded.
+[CarbonChat - Software] [17:51:43] [ERROR] java.net.ConnectException: Connection timed out: connect
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.net.PlainSocketImpl.connect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.net.SocksSocketImpl.connect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.net.Socket.connect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.net.Socket.connect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.NetworkClient.doConnect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.http.HttpClient.New(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.http.HttpClient.New(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at fr.carbonchat.api.http.HTTPUtils.sendData(HTTPUtils.java:49)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at fr.carbonchat.api.http.HTTPUtils.post(HTTPUtils.java:41)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at fr.carbonchat.api.http.HTTPUtils.post(HTTPUtils.java:31)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at fr.carbonchat.api.requests.request.AuthRequest.send(AuthRequest.java:23)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at fr.carbonchat.software.interfaces.launcher.login.LoginInterface.login(LoginInterface.java:309)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at fr.carbonchat.software.interfaces.launcher.login.LoginInterface$4.mouseClick(LoginInterface.java:235)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at fr.carbonchat.jfxswinger.swingers.JFXSRipplerButton$5.handle(JFXSRipplerButton.java:61)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at fr.carbonchat.jfxswinger.swingers.JFXSRipplerButton$5.handle(JFXSRipplerButton.java:1)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at javafx.event.Event.fireEvent(Event.java:198)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at javafx.scene.Scene$ClickGenerator.postProcess(Scene.java:3470)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at javafx.scene.Scene$ClickGenerator.access$8100(Scene.java:3398)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at javafx.scene.Scene$MouseHandler.process(Scene.java:3766)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.security.AccessController.doPrivileged(Native Method)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+[CarbonChat - Software] [17:51:43] [ERROR] 	at java.lang.Thread.run(Unknown Source)

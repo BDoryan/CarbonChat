@@ -1,0 +1,4 @@
+.text-field:focused{
+    -fx-faint-focus-color: transparent;
+    -fx-focus-color: red; /* here rgba (corrected) */
+}
