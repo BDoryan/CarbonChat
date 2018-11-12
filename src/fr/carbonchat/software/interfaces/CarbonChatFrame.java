@@ -6,8 +6,8 @@ import java.util.TimerTask;
 import fr.carbonchat.jfxswinger.palettes.JFXSwingerPalette;
 import fr.carbonchat.jfxswinger.swingers.JFXSFrame;
 import fr.carbonchat.jfxswinger.swingers.JFXSTitleBar;
-import fr.carbonchat.software.interfaces.home.MainInterface;
 import fr.carbonchat.software.interfaces.launcher.LauncherInterface;
+import fr.carbonchat.software.interfaces.main.MainInterface;
 import fr.carbonchat.software.palettes.CarbonChatPalette;
 import javafx.application.Platform;
 import javafx.scene.image.Image;
@@ -26,7 +26,7 @@ public class CarbonChatFrame extends JFXSFrame {
 	public AnchorPane container;
 
 	public CarbonChatFrame(Stage stage) {
-		super(stage, "CarbonChat", 1060, 620);
+		super(stage, "CarbonChat", 1280, 720);
 
 		this.setIcon(new Image(getClass().getResourceAsStream("/imgs/carbonchat-logo.png")));
 		this.stage.initStyle(StageStyle.UNDECORATED);
@@ -70,11 +70,13 @@ public class CarbonChatFrame extends JFXSFrame {
 		AnchorPane.setRightAnchor(this.container, 0D);
 		AnchorPane.setLeftAnchor(this.container, 0D);
 
+		this.root.getStylesheets().add("/css/scroll-bar.css");
 		this.root.getChildren().add(this.container);
 		this.root.setBorder(new Border(new BorderStroke(JFXSwingerPalette.PALETTE.getWhite(), BorderStrokeStyle.SOLID,
 				CornerRadii.EMPTY, new BorderWidths(0.10D))));
 
-		loadInterface(MainInterface.INTERFACE, this.container);
+		loadInterface(MainInterface.INTERFACE,
+				this.container);
 		
 		init();
 		apply();

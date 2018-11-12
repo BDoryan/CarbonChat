@@ -124,4 +124,12 @@ public class HomeLauncherInterface extends Interface {
 		
 		getChildren().add(this.container);
 	}
+
+	@Override
+	public void enter() {
+	}
+
+	@Override
+	public void leave() {
+	}
 }

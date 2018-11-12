@@ -24,7 +24,6 @@ import fr.carbonchat.software.palettes.CarbonChatPalette;
 import javafx.animation.RotateTransition;
 import javafx.geometry.Pos;
 import javafx.scene.control.ContentDisplay;
-import javafx.scene.control.ProgressIndicator;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
@@ -361,5 +360,17 @@ public class LoginInterface extends Interface {
 				i++;
 			}
 		}, 0, 750);
+	}
+
+	@Override
+	public void enter() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void leave() {
+		// TODO Auto-generated method stub
+		
 	}
 }

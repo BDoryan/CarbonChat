@@ -6,7 +6,6 @@ import java.net.URI;
 import java.net.URISyntaxException;
 
 import fr.carbonchat.jfxswinger.JFXSwinger;
-import fr.carbonchat.jfxswinger.swingers.JFXSButton;
 import fr.carbonchat.jfxswinger.swingers.JFXSRipplerButton;
 import fr.carbonchat.jfxswinger.utils.ColorUtils;
 import fr.carbonchat.jfxswinger.utils.Interface;
@@ -91,7 +90,7 @@ public class LauncherInterface extends Interface {
 		carbonChatLogo.setOnMouseEntered(new EventHandler<MouseEvent>() {
 			@Override
 			public void handle(MouseEvent event) {
-				playLogoAnimation(null);				
+				playLogoAnimation(null);
 			}
 		});
 		carbonChatLogo.setOnMouseClicked(new EventHandler<MouseEvent>() {
@@ -434,7 +433,21 @@ public class LauncherInterface extends Interface {
 		});
 	}
 
-	public void loadContainer(AnchorPane container) {
-		this.containerBox.setCenter(container);
+	public void loadContainer(Interface interface_) {
+		if (this.containerBox.getCenter() instanceof Interface) {
+			((Interface) this.containerBox.getCenter()).leave();
+		}
+		if (interface_ instanceof Interface) {
+			((Interface) interface_).enter();
+		}
+		this.containerBox.setCenter(interface_);
+	}
+
+	@Override
+	public void enter() {
+	}
+
+	@Override
+	public void leave() {
 	}
 }
