@@ -5,11 +5,11 @@ import java.net.URISyntaxException;
 
 import fr.carbonchat.api.CarbonChatAPI;
 import fr.carbonchat.api.langs.Lang;
-import fr.carbonchat.api.tools.ArgsReader;
-import fr.carbonchat.api.tools.logger.Logger;
-import fr.carbonchat.api.tools.logger.LoggerFile;
 import fr.carbonchat.software.CarbonChatApplication.CarbonChatApplicationLoading;
 import fr.carbonchat.software.interfaces.CarbonChatLoadingFrame;
+import fr.carbonchat.tools.ArgsReader;
+import fr.carbonchat.tools.logger.Logger;
+import fr.carbonchat.tools.logger.LoggerFile;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.stage.Stage;

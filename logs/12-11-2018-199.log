@@ -1,0 +1,108 @@
+[CarbonChat - Software] [23:54:42] [INFO] ----------[ CARBONCHAT ]----------
+[CarbonChat - Software] [23:54:42] [INFO] ----------[ CARBONCHAT ]----------
+[CarbonChat - Software] [23:54:42] [INFO] 
+[CarbonChat - Software] [23:54:42] [INFO] 
+[CarbonChat - Software] [23:54:42] [INFO] Version: BETA-0.0.1
+[CarbonChat - Software] [23:54:42] [INFO] Version: BETA-0.0.1
+[CarbonChat - Software] [23:54:42] [INFO] Web Master Server: http://doryan-bessiere.000webhostapp.com/apps/carbonchat/
+[CarbonChat - Software] [23:54:42] [INFO] Web Master Server: http://doryan-bessiere.000webhostapp.com/apps/carbonchat/
+[CarbonChat - Software] [23:54:42] [INFO] Web Master Server Status : online
+[CarbonChat - Software] [23:54:42] [INFO] Web Master Server Status : online
+[CarbonChat - Software] [23:54:42] [INFO] 
+[CarbonChat - Software] [23:54:42] [INFO] 
+[CarbonChat - Software] [23:54:42] [INFO] has update: no
+[CarbonChat - Software] [23:54:42] [INFO] has update: no
+[CarbonChat - Software] [23:54:42] [INFO]   current version: BETA-0.0.1
+[CarbonChat - Software] [23:54:42] [INFO]   current version: BETA-0.0.1
+[CarbonChat - Software] [23:54:42] [INFO]   last version: BETA-0.0.1
+[CarbonChat - Software] [23:54:42] [INFO]   last version: BETA-0.0.1
+[CarbonChat - Software] [23:54:42] [INFO] 
+[CarbonChat - Software] [23:54:42] [INFO] 
+[CarbonChat - Software] [23:54:42] [INFO] ----------------------------------
+[CarbonChat - Software] [23:54:42] [INFO] ----------------------------------
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_welcome_message=Bienvenue sur CarbonChat l'application de vos rêves <br> pour réaliser et organiser vos projets les plus fous <br> <br> CarbonChat est dans ces première version il se peut <br> que vous tombez sur des bug n'hésiter <br> pas à nous les rapporter.
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_welcome_message=Bienvenue sur CarbonChat l'application de vos rêves <br> pour réaliser et organiser vos projets les plus fous <br> <br> CarbonChat est dans ces première version il se peut <br> que vous tombez sur des bug n'hésiter <br> pas à nous les rapporter.
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] i_have_a_problem=Je rencontre un problème
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] i_have_a_problem=Je rencontre un problème
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] email_text=Email
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] email_text=Email
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] password_text=Mot de passe
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] password_text=Mot de passe
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] connection_button_text=Connexion
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] register_button_text=Inscription
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] current_connection=Connexion en cours ...
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] current_connection=Connexion en cours ...
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] textfield_empty=Les champs requis sont incomplet
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] textfield_empty=Les champs requis sont incomplet
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] account_disabled=Votre compte est désactivé
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] account_disabled=Votre compte est désactivé
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] connection_is_a_failure=Identifiant invalide
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] connection_is_a_failure=Identifiant invalide
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] error_paramaters=Une erreur est survenue, problème de paramètre
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] error_paramaters=Une erreur est survenue, problème de paramètre
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] missing_parameters=Une erreur est survenue, paramètres manquant
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] missing_parameters=Une erreur est survenue, paramètres manquant
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] connection_is_a_success=Connexion réussite
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] connection_is_a_success=Connexion réussite
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] as_error_has_occurred_from_the_server=Une erreur est survenue sur le serveur
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] as_error_has_occurred_from_the_server=Une erreur est survenue sur le serveur
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] an_error_occurred_while_decoding_the_response=Une erreur est survenue lors du décodage de la requête
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] an_error_occurred_while_decoding_the_response=Une erreur est survenue lors du décodage de la requête
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] an_error_arose_during_the_recovery_of_the_answer=Aucune réponse de la par du serveur
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] an_error_arose_during_the_recovery_of_the_answer=Aucune réponse de la par du serveur
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] back_to_home=Retour vers l'accueil
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] back_to_home=Retour vers l'accueil
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] save_check_box=Connexion automatique
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] save_check_box=Connexion automatique
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] authserver_offline=La connexion au serveur d'authentification à échoué
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] authserver_offline=La connexion au serveur d'authentification à échoué
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] loading_frame_text=Changement de CarbonChat
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] loading_frame_text=Changement de CarbonChat
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_ads_text=Annonces
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_ads_text=Annonces
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_projects_text=Projets
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_projects_text=Projets
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_contacts_text=Contacts
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_contacts_text=Contacts
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_settings_button=Paramètres
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_settings_button=Paramètres
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_home_button=Accueil
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_home_button=Accueil
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_create_a_ad_button=Créer une annonce
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_create_a_ad_button=Créer une annonce
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_my_ads_button=Mes annonces
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_my_ads_button=Mes annonces
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_see_the_ads_button=Voir les annonces
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_see_the_ads_button=Voir les annonces
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_create_a_project_button=Créer un projet
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_create_a_project_button=Créer un projet
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_see_more_projects_button=Voir plus de projets
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_see_more_projects_button=Voir plus de projets
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_add_contact_button=Ajouter un contact
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_add_contact_button=Ajouter un contact
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_my_contacts_button=Mes contacts
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] navbar_my_contacts_button=Mes contacts
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_announces_see_the_announce=Consultez l'annonce
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_announces_see_the_announce=Consultez l'annonce
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_recent_projects_title=Projets récents :
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_recent_projects_title=Projets récents :
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_recent_contacts_title=Contact récents :
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_recent_contacts_title=Contact récents :
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_recent_projects_members_online=Membre(s) en ligne
+[CarbonChat - Software] [23:54:42] [DEBUG] [Lang] home_recent_projects_members_online=Membre(s) en ligne
+[CarbonChat - Software] [23:54:42] [INFO] [Lang] 36 messages loaded.
+[CarbonChat - Software] [23:54:42] [INFO] [Lang] 36 messages loaded.
+[CarbonChat - Software] [23:54:43] [INFO] path: /imgs/twitter-white.png
+[CarbonChat - Software] [23:54:43] [INFO] path: /imgs/twitter-white.png
+[CarbonChat - Software] [23:54:43] [INFO] path: /imgs/facebook-white.png
+[CarbonChat - Software] [23:54:43] [INFO] path: /imgs/facebook-white.png
+[CarbonChat - Software] [23:54:43] [INFO] path: /imgs/github-white.png
+[CarbonChat - Software] [23:54:43] [INFO] path: /imgs/github-white.png
+[CarbonChat - Software] [23:54:43] [INFO] path: /imgs/youtube-white.png
+[CarbonChat - Software] [23:54:43] [INFO] path: /imgs/youtube-white.png

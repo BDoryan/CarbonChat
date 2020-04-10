@@ -170,17 +170,17 @@ public class HomeInterface extends Interface {
 	}
 	
 	public void reloadRecentContacts() {
-		recent_contacts[0] = new Contact("dza");
-		recent_contacts[1] = new Contact("dza");
-		recent_contacts[2] = new Contact("dza");
-		recent_contacts[3] = new Contact("dza");
-		recent_contacts[4] = new Contact("dza");
+		recent_contacts[0] = new Contact(0);
+		recent_contacts[1] = new Contact(0);
+		recent_contacts[2] = new Contact(0);
+		recent_contacts[3] = new Contact(0);
+		recent_contacts[4] = new Contact(0);
 	}
 	
 	public void reloadRecentProjects() {
-		recent_projects[0] = new Project("dza", "CarbonChat");
-		recent_projects[1] = new Project("dza", "BloostryNetwork");
-		recent_projects[2] = new Project("dza", "iPvP");
+		recent_projects[0] = new Project(0, "CarbonChat");
+		recent_projects[1] = new Project(0, "BloostryNetwork");
+		recent_projects[2] = new Project(0, "iPvP");
 	}
 	
 	public void reloadnewss() {

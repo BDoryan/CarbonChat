@@ -12,7 +12,7 @@ public class CarbonChatPalette extends Palette {
 	}
 
 	public Color getPrimary() {
-		return Color.web("##00D1B2");
+		return Color.web("#00D1B2");
 	}
 	
 	public Color getHalfLight() {
@@ -20,7 +20,7 @@ public class CarbonChatPalette extends Palette {
 	}
 	
 	public Color getHalfDark() {
-		return Color.web("#2e2e2e");
+		return Color.web("#3a3a3a");
 	}
 
 	public Color getInfo() {
@@ -36,7 +36,7 @@ public class CarbonChatPalette extends Palette {
 	}
 
 	public Color getWarning() {
-		return Color.hsb(48, 100, 67);
+		return Color.web("#FFDD57");
 	}
 
 	public Color getWhite() {

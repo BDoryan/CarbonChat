@@ -9,14 +9,14 @@ import fr.carbonchat.jfxswinger.utils.CSSUtils;
 import fr.carbonchat.jfxswinger.utils.ColorUtils;
 import fr.carbonchat.jfxswinger.utils.Interface;
 import fr.carbonchat.software.CarbonChatSoftware;
+import fr.carbonchat.software.core.swinger.User;
 import fr.carbonchat.software.interfaces.main.home.HomeInterface;
+import fr.carbonchat.software.interfaces.main.profile.UserProfileInterface;
 import fr.carbonchat.software.palettes.CarbonChatPalette;
-import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.ContentDisplay;
 import javafx.scene.control.Label;
 import javafx.scene.layout.AnchorPane;
-import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
@@ -28,19 +28,11 @@ public class MainInterface extends Interface {
 	public AnchorPane navbar = new AnchorPane();
 	
 	public Label username_text;
-	
+
 	public JFXSButton home_button;
-
-	public JFXSButton create_a_ad_button;
-	public JFXSButton my_ads_button;
-	public JFXSButton see_the_ads_button;
-
-	public JFXSButton create_a_project_button;
-	public JFXSButton see_more_projects_button;
-
-	public JFXSButton add_contact_button;
-	public JFXSButton my_contacts_button;
-	
+	public JFXSButton ads_button;
+	public JFXSButton contacts_button;
+	public JFXSButton projects_button;
 	public JFXSButton settings_button;
 	
 	public AnchorPane container = new AnchorPane();
@@ -66,7 +58,6 @@ public class MainInterface extends Interface {
 		AnchorPane.setTopAnchor(buttonList, 10D);
 		
 		Font buttonFont = JFXSwinger.getFont(20D);
-		Font littleButtonFont = JFXSwinger.getFont(17D);
 		
 		JFXSIconMaterial adsIcon = new JFXSIconMaterial(MaterialIcon.DESCRIPTION);
 		adsIcon.setIconSize(24);
@@ -91,88 +82,35 @@ public class MainInterface extends Interface {
 		this.home_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_home_button"), buttonFont, homeIcon, new Runnable() {
 			@Override
 			public void run() {
+				loadContainer(HomeInterface.INTERFACE);
 			}
 		}, false);
 		
 		buttonList.getChildren().add(this.home_button);
 		
-		//Ads
-
-		Label ads_text = generateText(CarbonChatSoftware.current_lang.get("navbar_ads_text"), buttonFont, adsIcon);
-		ads_text.setPadding(new Insets(2, 0, 5, 12));
-		
-		this.create_a_ad_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_create_a_ad_button"), littleButtonFont, null, new Runnable() {
+		this.ads_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_ads_button"), buttonFont, adsIcon, new Runnable() {
 			@Override
 			public void run() {
 			}
-		}, true);
-		this.create_a_ad_button.setPadding(new Insets(0, 0, 0, 30));
-
+		}, false);
 		
-		this.my_ads_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_my_ads_button"), littleButtonFont, null, new Runnable() {
+		buttonList.getChildren().add(this.ads_button);
+		
+		this.contacts_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_contacts_button"), buttonFont, contactsIcon, new Runnable() {
 			@Override
 			public void run() {
 			}
-		}, true);
-		this.my_ads_button.setPadding(new Insets(0, 0, 0, 30));
+		}, false);
 		
-		this.see_the_ads_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_see_the_ads_button"), littleButtonFont, null, new Runnable() {
+		buttonList.getChildren().add(this.contacts_button);
+		
+		this.projects_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_projects_button"), buttonFont, projectsIcon, new Runnable() {
 			@Override
 			public void run() {
 			}
-		}, true);
-		this.see_the_ads_button.setPadding(new Insets(0, 0, 0, 30));
+		}, false);
 		
-		//Projects
-
-		Label projects_text = generateText(CarbonChatSoftware.current_lang.get("navbar_projects_text"), buttonFont, projectsIcon);
-		projects_text.setPadding(new Insets(10, 0, 5, 12));
-		
-		this.create_a_project_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_create_a_project_button"), littleButtonFont, null, new Runnable() {
-			@Override
-			public void run() {
-			}
-		}, true);
-		this.create_a_project_button.setPadding(new Insets(0, 0, 0, 30));
-		
-		this.see_more_projects_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_see_more_projects_button"), littleButtonFont, null, new Runnable() {
-			@Override
-			public void run() {
-			}
-		}, true);
-		this.see_more_projects_button.setPadding(new Insets(0, 0, 0, 30));
-		
-		//Contacts
-
-		Label contacts_text = generateText(CarbonChatSoftware.current_lang.get("navbar_contacts_text"), buttonFont, contactsIcon);
-		contacts_text.setPadding(new Insets(10, 0, 5, 12));
-		
-		this.add_contact_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_add_contact_button"), littleButtonFont, null, new Runnable() {
-			@Override
-			public void run() {
-			}
-		}, true);
-		this.add_contact_button.setPadding(new Insets(0, 0, 0, 30));
-		
-		this.my_contacts_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_my_contacts_button"), littleButtonFont, null, new Runnable() {
-			@Override
-			public void run() {
-			}
-		}, true);
-		this.my_contacts_button.setPadding(new Insets(0, 0, 0, 30));
-
-		buttonList.getChildren().add(ads_text);
-		buttonList.getChildren().add(create_a_ad_button);
-		buttonList.getChildren().add(my_ads_button);
-		buttonList.getChildren().add(see_the_ads_button);
-		
-		buttonList.getChildren().add(projects_text);
-		buttonList.getChildren().add(create_a_project_button);
-		buttonList.getChildren().add(see_more_projects_button);
-		
-		buttonList.getChildren().add(contacts_text);
-		buttonList.getChildren().add(add_contact_button);
-		buttonList.getChildren().add(my_contacts_button);
+		buttonList.getChildren().add(this.projects_button);
 		
 		this.settings_button = generateJFXSButton(CarbonChatSoftware.current_lang.get("navbar_settings_button"), buttonFont, settingsIcon, new Runnable() {
 			@Override
@@ -210,7 +148,8 @@ public class MainInterface extends Interface {
 		AnchorPane.setTopAnchor(this.container, 0D);
 		AnchorPane.setBottomAnchor(this.container, 0D);
 		
-		loadContainer(HomeInterface.INTERFACE);
+		//loadContainer(HomeInterface.INTERFACE);
+		loadContainer(new UserProfileInterface(new User(0)));
 	}
 	
 	private Label generateText(String text, Font font, JFXSIconMaterial icon) {
@@ -266,8 +205,14 @@ public class MainInterface extends Interface {
 		
 		return button;
 	}
+	
+	public Interface interface_;
 
 	public void loadContainer(Interface container) {
+		if(interface_ != null && interface_.getClass().getName().equals(container.getClass().getName())){
+			return;
+		}
+		
 		if (this.container != null && this.container instanceof Interface) {
 			((Interface) this.container).leave();
 		}
@@ -275,11 +220,13 @@ public class MainInterface extends Interface {
 			((Interface) container).enter();
 		}
 		
+		this.interface_ = container;
+		
 		AnchorPane.setTopAnchor(container, 0D);
 		AnchorPane.setBottomAnchor(container, 0D);
 		AnchorPane.setRightAnchor(container, 0D);
 		AnchorPane.setLeftAnchor(container, 0D);
-
+		
 		this.container.getChildren().clear();
 		this.container.getChildren().add(container);
 	}

@@ -4,11 +4,11 @@ import javafx.scene.image.Image;
 
 public class Project {
 
-	public String uuid;
+	public int id;
 	public String name;
 
-	public Project(String uuid, String name) {
-		this.uuid = uuid;
+	public Project(int id, String name) {
+		this.id = id;
 		this.name = name;
 	}
 

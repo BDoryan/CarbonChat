@@ -6,10 +6,10 @@ import javafx.scene.image.Image;
 
 public class Contact {
 
-	public String uuid;
+	public int id;
 	
-	public Contact(String uuid) {
-		this.uuid = uuid;
+	public Contact(int id) {
+		this.id = id;
 	}
 
 	public Image getLogo(int width, int height) {

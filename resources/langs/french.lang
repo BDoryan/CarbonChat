@@ -20,14 +20,11 @@ back_to_home=Retour vers l'accueil
 save_check_box=Connexion automatique
 authserver_offline=La connexion au serveur d'authentification à échoué
 
-loading_frame_text=Changement de CarbonChat
-
-navbar_ads_text=Annonces
-navbar_projects_text=Projets
-navbar_contacts_text=Contacts
-
-navbar_settings_button=Paramètres
 navbar_home_button=Accueil
+navbar_ads_button=Annonces
+navbar_projects_button=Projets
+navbar_contacts_button=Contacts
+navbar_settings_button=Paramètres
 
 navbar_create_a_ad_button=Créer une annonce
 navbar_my_ads_button=Mes annonces
@@ -38,6 +35,9 @@ navbar_see_more_projects_button=Voir plus de projets
 
 navbar_add_contact_button=Ajouter un contact
 navbar_my_contacts_button=Mes contacts
+
+user_interface_projects=Projet(s)
+user_interface_ads=Annonce(s)
 
 home_announces_see_the_announce=Consultez l'annonce
 home_recent_projects_title=Projets récents :
