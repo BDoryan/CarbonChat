@@ -15,7 +15,7 @@ public class CarbonChatAPI {
 	public static final String NAME = "CarbonChat API";
 	public static final String VERSION = "BETA-0.0.1";
 	public static final String WEB_MASTER_SERVER = "http://doryan-bessiere.000webhostapp.com/apps/carbonchat/";
-	public static final String API_REST = "http://77.144.207.27/api/";
+	public static final String API_REST = "http://xx.xxx.xxx.xx/api/";
 	
 	public static Logger LOGGER = null;
 
